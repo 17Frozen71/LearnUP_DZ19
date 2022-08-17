@@ -1,0 +1,13 @@
+Log: [DEBAG]value = Injected value
+Log: [DEBAG]name = Ivan
+Log: [DEBAG]name = Oleg
+Log: [DEBAG]name = Petr
+Log: [DEBAG]value = Injected value
+Log: [DEBAG]name = Ivan
+Log: [DEBAG]name = Oleg
+Log: [DEBAG]name = Petr
+Log: [DEBAG]value = Injected value
+Log: [DEBAG]name = Ivan
+Log: [DEBAG]name = Oleg
+Log: [DEBAG]name = Petr
+Log: [DEBAG]Handled event: event.testEvent[source=eventData(createdAt=2022-08-17T05:43:04.379746600, title=Event, details=My first Event)]
